@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ﻿AdobeInvisFont, ﻿Courier, ﻿OpenSans-Bold;;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+ul {
+    list-style: none;
+}
+.blue-heading {
+    font-family: ﻿AdobeInvisFont, ﻿Courier, ﻿OpenSans-Bold;
+    color: rgba(24, 180, 207, 255);
+    font-size: 27px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    padding: 40px 0;
+}
+.container {
+    width: min(1170px,90%);
+    margin: 0 auto;
+}
